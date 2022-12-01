@@ -1,0 +1,10 @@
+Database is a collection of data or information 
+A relational database is a database management system based on relational model of database. 
+It is a set of tables containing a pre-defined data types. 
+All the tables in a relational database are flat table. 
+In this model relations are established among the table with the help of their common attribute. 
+Table is a collection of data, organized in terms of rows and columns.
+Tables contain rows and columns, where the rows are known as records and the columns are known as fields.
+made up of rows and columns. 
+A row in a table is known as tuple or record.
+An individual column of a table is known as attribute.
