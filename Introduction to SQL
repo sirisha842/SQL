@@ -1,0 +1,31 @@
+Structured Query Language (SQL) is a special purpose language for interacting with relational databases.
+The beauty of SQL is that anyone working at a company that stores data in a relational database can use it.
+It is a standard language for Relational Database System. It enables a user to create, read, update and delete relational databases and tables.
+
+These SQL commands are mainly categorized into five categories as: 
+DDL – Data Definition Language
+DQL – Data Query Language
+DML – Data Manipulation Language
+DCL – Data Control Language
+TCL – Transaction Control Language
+
+Data Definition Language (DDL) : It is used to create and modify the structure of objects in a database using predefined commands and a specific syntax. 
+These database objects include tables, sequences, locations, aliases, schemas and indexes.
+
+Data Manipulation Language:
+A DML (data manipulation language) refers to a computer programming language that allows you to add (insert), delete (delete), and alter (update) data in a database. 
+It isis typically a sublanguage of a larger database language like SQL, with the DML containing some of the language's operators.
+
+DQL (Data Query Language):
+DQL statements are used for performing queries on the data within schema objects. The purpose of the DQL Command is to get 
+some schema relation based onthe query passed to it.
+We can define DQL as follows it is a component of SQL statement that allows getting data from the database 
+and imposing order upon it. It includes the SELECT statement.
+
+DCL (Data Control Language): 
+DCL includes commands such as GRANT and REVOKE which mainly deal with the rights, permissions, and other controls of the database system. 
+
+TCL (Transaction Control Language): 
+Transactions group a set of tasks into a single execution unit.
+Each transaction begins with a specific task and ends when all the tasks in the group successfully complete. 
+If any of the tasks fail, the transaction fails.
